@@ -1,0 +1,1 @@
+export const hostName = "https://reqres.in"
